@@ -35,22 +35,22 @@ List of files added<br/>
 /Views/Web.config	<br/>
 /Views/_ViewStart.cshtml<br/>
 /Web.config<br/>
-<br/
-List - 10 paging
+<br/>
+List - 10 paging<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/1.png" width="90%"></img>
-Search
+<br/>Search<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/2.png" width="90%"></img>
-Creat
+<br/>Creat<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/3.png" width="90%"></img>
-Creat-Check
+<br/>Creat-Check<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/4.png" width="90%"></img>
-Edit
+<br/>Edit<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/5.png" width="90%"></img>
-Edit-Check
+<br/>Edit-Check<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/6.png" width="90%"></img>
-Delete
+<br/>Delete<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/7.png" width="90%"></img>
-Delete-Check
+<br/>Delete-Check<br/>
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/8.png" width="90%"></img>
 
 
