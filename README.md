@@ -35,25 +35,22 @@ List of files added<br/>
 /Views/Web.config	<br/>
 /Views/_ViewStart.cshtml<br/>
 /Web.config<br/>
-<br/>
-
+<br/
+List - 10 paging
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/1.png" width="90%"></img>
-
-
-
+Search
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/2.png" width="90%"></img>
-
+Creat
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/3.png" width="90%"></img>
-
-
+Creat-Check
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/4.png" width="90%"></img>
-
+Edit
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/5.png" width="90%"></img>
-
+Edit-Check
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/6.png" width="90%"></img>
-
+Delete
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/7.png" width="90%"></img>
-
+Delete-Check
 <img src="https://github.com/kwakchulyong/TechnicalTest_20180405/blob/master/ScreenShot/8.png" width="90%"></img>
 
 
